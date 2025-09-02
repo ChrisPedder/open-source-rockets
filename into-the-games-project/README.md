@@ -134,16 +134,27 @@ The `.scad` files are parametric source code for the 3D printed parts.
 **Recovery area:** Large open field, minimum 200m radius
 
 ## Assembly Instructions
+Full instructions and images can be found here (Making_a_rocket.pdf)
 
 1. **Prepare body tube:** Remove plastic end caps, sand lightly if needed for 3D printed parts fit
 
-2. **Install motor mount:** Press-fit motor mount into body tube, ensure shock cord attachment is accessible
+2. **Attach shock cord to motor mount:** Tie a loop in the cord, one third along the length. Tie the long end of the cord to the two small holes in the motor mount using a figure of 8 knot.
 
-3. **Attach fins:** Use fin guide to mark positions, epoxy fins to body tube with 90° spacing
+3. **Install motor mount:** Press-fit motor mount into body tube, cord end first, threading the cord through the tube and out the other end. Ensure shock cord attachment is accessible.
 
-4. **Install nose cone:** Test fit, ensure smooth separation for recovery
+4. **Attach shock cord to nose cone:** Tie the other end of the cord to the two small holes in the nose cone using a figure of 8 knot.
 
-5. **Prepare recovery system:** Tie kevlar cord to motor mount, attach parachute with swivel if available
+5. **Attach parachute:** Tie the end of the parachute lines to the loop already made in the shock cord. Attach with swivel if available.
+
+6.  **Prepare recovery system:** Fold the parachute, wrap the cord around it and place it inside the rocket body tube. Fit the nose cone into the end of the body tube,  ensure smooth separation for recovery.
+
+7. **Glue in motor mount:** Using Epoxy glue, glue the non-cord end of the motor mount into the end of the rocket body tube, so that the end of the motor tube is aligned with the end of the cardboard tube.
+
+8. **Attach fins:** Use fin guide to mark positions, epoxy fins to body tube with 120° spacing. Ensure the end of the shallow sloping side of the fin is lined up with the end of the rocket body tube.
+
+9. **Attach launch lug:** Take one launch lug (piece of drinking straw) and glue it between two fins, halfway along the rocket body tube.
+
+
 
 ## Pre-Flight Checklist
 
