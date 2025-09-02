@@ -11,7 +11,7 @@ This rocket is designed around a 50mm diameter mailing tube body with 3D printed
 - Motor: 18mm diameter (Klima D9-3 recommended)
 - Recovery: 30cm parachute with kevlar shock cord
 - Fin material: 4mm plywood
-- Estimated flight altitude: ~200-300m (dependent on motor and conditions)
+- Estimated flight altitude: ~150m (dependent on motor and conditions)
 
 ## Repository Contents
 
@@ -34,7 +34,7 @@ Laser cutter template for the rocket fins.
 
 **How to open:** Any vector graphics program (Inkscape, Adobe Illustrator, or even a web browser)
 
-**Usage:** Send this file directly to a laser cutter set for 4mm plywood. The design includes 4 identical fins with alignment marks.
+**Usage:** Send this file directly to a laser cutter set for 4mm plywood. The design includes 3 identical fins.
 
 ### 3D Printable Parts
 
@@ -44,14 +44,14 @@ All STL files are ready for 3D printing in PLA plastic with standard settings (0
 **Purpose:** Houses the 18mm motor and provides attachment point for recovery system
 **Features:**
 - Precise 18mm motor tube fit
-- Integrated shock cord attachment point
-- Designed for friction fit into 50mm body tube
+- Drill two 3mm holes in the top mounting ring shock cord attachment point
+- Designed for friction fit into 50mm body tube, attachment with pva glue
 
 #### `nose-cone.stl` / `nose-cone.scad`
 **Purpose:** Aerodynamic nose cone with recovery system compartment
 **Features:**
 - Ogive shape for optimal aerodynamics
-- Hollow interior for parachute and shock cord
+- Hollow interior, drill two 3mm holes for shock cord attachment
 - Friction fit to body tube
 
 #### `screw-cap.stl`
@@ -103,9 +103,9 @@ The `.scad` files are parametric source code for the 3D printed parts.
 **Notes:** Kevlar is heat-resistant and won't burn from motor ejection charge
 
 ### Rail Guide
-**Material:** 5mm plastic drinking straw
+**Material:** 5mm paper drinking straw
 **Length:** ~50mm
-**Purpose:** Guides rocket on launch rod during initial acceleration
+**Purpose:** Guides rocket on launch rod during initial acceleration, attached with pva glue
 
 ## Flight Components
 
@@ -113,14 +113,14 @@ The `.scad` files are parametric source code for the 3D printed parts.
 **Recommended:** Klima D9-3 (18mm diameter)
 **Source:** [Hobbyshop.ch](https://www.hobbyshop.ch/modellraketen-treibsatz-d9-3-6-stueck-klima0493.html)
 **Notes:**
-- D9-3 provides good altitude with 3-second delay for recovery deployment
+- D9-3 provides good altitude (150m) with 3-second delay for recovery deployment
 - Always verify motor fits properly before flight
 - Store motors in cool, dry location
 
 ### Recovery Wadding
 **Purpose:** Protects parachute from hot ejection gases
 **Source:** [Hobbyshop.ch](https://www.hobbyshop.ch/schutzwatte-fuer-modellraketen-klima7020.html)
-**Usage:** Pack ~2-3 sheets above parachute before each flight
+**Usage:** Pack wadding loosely into body tube below parachute before each flight
 
 ## Launch Equipment
 
@@ -135,7 +135,7 @@ The `.scad` files are parametric source code for the 3D printed parts.
 
 ## Assembly Instructions
 
-1. **Prepare body tube:** Remove one plastic end cap, sand lightly if needed for 3D printed parts fit
+1. **Prepare body tube:** Remove plastic end caps, sand lightly if needed for 3D printed parts fit
 
 2. **Install motor mount:** Press-fit motor mount into body tube, ensure shock cord attachment is accessible
 
@@ -190,4 +190,4 @@ Model rocketry involves inherent risks. Users are responsible for following all 
 
 ---
 
-**First time building rockets?** Consider joining [ARGOS](https://www.argoshpr.ch/j3/) a local rocketry club. The experience and mentorship are invaluable for safe, successful flights. 
+**First time building rockets?** Consider joining [ARGOS](https://www.argoshpr.ch/j3/) a local rocketry club. The experience and mentorship are invaluable for safe, successful flights.
