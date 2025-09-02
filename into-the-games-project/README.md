@@ -85,7 +85,7 @@ The `.scad` files are parametric source code for the 3D printed parts.
 ### Fins
 **Material:** 4mm plywood
 **Source:** Local laser cutting service or makerspace
-**Quantity:** 4 fins (cut from `fin-shape.svg`)
+**Quantity:** 3 fins (cut from `fin-shape.svg`)
 **Dimensions:** Approximately 100mm × 80mm per fin
 
 ### 3D Printed Components
